@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Satyam Poddar\AndroidStudioProjects\Puzzlate-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Satyam Poddar\AndroidStudioProjects\Puzzlate-master\app\build\intermediates\pre-dexed\debug\classes-d5a0c40be1fddb0ba949518002866cf8d33f679e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Satyam Poddar\AndroidStudioProjects\Puzzlate-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Satyam Poddar\AndroidStudioProjects\Puzzlate-master\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-1aa5ca48b8657f95c620f7a0b0f8d58d149730e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Satyam Poddar\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Satyam Poddar\AndroidStudioProjects\Puzzlate-master\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-8a770752b3cdc9001d2a185da262c6300cdaa703.jar" />
+    </item>
+
+</items>

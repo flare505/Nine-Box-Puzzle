@@ -1,0 +1,4 @@
+C:\Users\Satyam Poddar\AndroidStudioProjects\Puzzlate-master\app\build\intermediates\classes\debug
+C:\Users\Satyam Poddar\AndroidStudioProjects\Puzzlate-master\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-8a770752b3cdc9001d2a185da262c6300cdaa703.jar
+C:\Users\Satyam Poddar\AndroidStudioProjects\Puzzlate-master\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-1aa5ca48b8657f95c620f7a0b0f8d58d149730e2.jar
+C:\Users\Satyam Poddar\AndroidStudioProjects\Puzzlate-master\app\build\intermediates\pre-dexed\debug\classes-d5a0c40be1fddb0ba949518002866cf8d33f679e.jar
